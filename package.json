@@ -1,0 +1,39 @@
+{
+  "devDependencies": {
+    "sass": "^1.82.0",
+    "vite": "^6.0.3"
+  },
+  "name": "lunchbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "braces": "^3.0.3",
+    "chokidar": "^4.0.1",
+    "detect-libc": "^1.0.3",
+    "esbuild": "^0.24.0",
+    "fill-range": "^7.1.1",
+    "immutable": "^5.0.3",
+    "is-extglob": "^2.1.1",
+    "is-glob": "^4.0.3",
+    "is-number": "^7.0.0",
+    "micromatch": "^4.0.8",
+    "nanoid": "^3.3.8",
+    "node-addon-api": "^7.1.1",
+    "picocolors": "^1.1.1",
+    "picomatch": "^2.3.1",
+    "postcss": "^8.4.49",
+    "readdirp": "^4.0.2",
+    "rollup": "^4.28.1",
+    "source-map-js": "^1.2.1",
+    "to-regex-range": "^5.0.1"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
