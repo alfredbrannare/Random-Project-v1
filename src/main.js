@@ -1,4 +1,6 @@
 import BackgroundMouseTracker from './js/BackgroundMouseTracker.js';
+import BackgroundHexagon from './js/BackgroundHexagon.js';
 
-// Create an instance of the BackgroundMouseTracker
+
 new BackgroundMouseTracker();
+new BackgroundHexagon();

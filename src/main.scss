@@ -14,11 +14,20 @@ body {
 }
 
 #gradient {
-    background: radial-gradient(#ff8811, 
+    background: radial-gradient(#d38208, 
     transparent 50%);
     width: 25rem;
     height: 25rem;
     position: absolute;
     top: -12.5rem;
     left: -12.5rem;
+}
+
+#pattern {
+    position: absolute;
+    top: -44px;
+    left: -50px;
+    right: 0;
+    bottom: 0;
+    z-index: 1;
 }
