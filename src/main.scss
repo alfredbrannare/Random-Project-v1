@@ -31,3 +31,20 @@ body {
     bottom: 0;
     z-index: 1;
 }
+
+#container {
+    background-color: rgba($color: #131217, $alpha: 0.9);
+    min-width: 50rem;
+    min-height: 25rem;
+    z-index: 2;
+    border: 0.2rem solid #d38208;
+    border-radius: 0.5rem;
+    display: flex;
+    justify-content: center;
+
+    h1 {
+        color: #d38208;
+    }
+
+}
+
